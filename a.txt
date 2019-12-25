@@ -1,0 +1,3 @@
+ez egy új file a repóban.
+és hozzáadom ezt a sort is
+aztán kitörlöm a második sort, ezt: "hozzáadom ezt a sort"
